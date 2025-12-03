@@ -24,9 +24,7 @@ Incluye escaneo TCP optimizado, banner grabbing, sistema de logs y soporte para 
 
 🎯 Uso básico
 
-
 <img width="639" height="465" alt="BadgerSec" src="https://github.com/user-attachments/assets/83e43a8b-7dab-4917-a86d-c47e17c789c9" />
-
 
 
 📄 Los logs se almacenan automáticamente en:
