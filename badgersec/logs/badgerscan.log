@@ -1,0 +1,14 @@
+2025-12-01 09:14:17,072 — INFO — Scanning 192.168.1.1 for open TCP ports...
+2025-12-01 09:14:17,098 — WARNING — Banner not found on port 22
+2025-12-01 09:14:17,105 — WARNING — Banner not found on port 993
+2025-12-01 09:14:17,106 — WARNING — Banner not found on port 995
+2025-12-01 09:14:17,107 — WARNING — Banner not found on port 443
+2025-12-01 09:14:17,153 — ERROR — Error getting banner on port 25: timed out
+2025-12-01 09:14:17,153 — ERROR — Error getting banner on port 110: timed out
+2025-12-01 09:14:17,153 — ERROR — Error getting banner on port 143: timed out
+2025-12-01 09:14:17,153 — ERROR — Error getting banner on port 80: timed out
+2025-12-01 09:14:17,154 — WARNING — Banner not found on port 25
+2025-12-01 09:14:17,155 — WARNING — Banner not found on port 110
+2025-12-01 09:14:17,156 — WARNING — Banner not found on port 143
+2025-12-01 09:14:17,156 — WARNING — Banner not found on port 80
+2025-12-01 09:14:17,215 — INFO — Open ports found in 192.168.1.1: [22, 25, 80, 110, 143, 443, 993, 995]

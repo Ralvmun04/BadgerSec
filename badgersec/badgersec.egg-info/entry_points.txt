@@ -1,0 +1,3 @@
+[console_scripts]
+badgersec = badgersec.main:main
+
