@@ -1,4 +1,17 @@
-🦡 BadgerSec
+Markdown
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=180&section=header&text=BadgerSec&fontSize=40&fontColor=ff9e64&fontAlignY=50&desc=Plataforma%20de%20Seguridad%20y%20Auditoría%20Ofensiva&descSize=15&descColor=8b949e" alt="BadgerSec Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Security-Offensive%20%2F%20Defensive-orange.svg?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Security">
+  <img src="https://img.shields.io/badge/Status-Active-success.svg?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License">
+</p>
+
+---
+# 🦡 BadgerSec
 The persisting penetration testing tool.
 BadgerSec es una aplicación de terminal que se puede utilizar tanto en linux como en windows o ios.
 Incluye escaneo TCP optimizado, banner grabbing, sistema de logs y soporte para instalación vía pip.
