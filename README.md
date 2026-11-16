@@ -7,7 +7,6 @@ Markdown
   <img src="https://img.shields.io/badge/Python-3.8%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Security-Offensive%20%2F%20Defensive-orange.svg?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Security">
   <img src="https://img.shields.io/badge/Status-Active-success.svg?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge" alt="License">
 </p>
 
 ---
